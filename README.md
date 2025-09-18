@@ -1,5 +1,5 @@
 # ScienceQA Dataset – Classification and Retrieval Project
-This project aims to apply various Natural Language and Processing techniques on a Dataset.
+This project aims to apply various Natural Language Processing (NLP) techniques on a Dataset.
 We worked with the [ScienceQA dataset](https://huggingface.co/datasets/derek-thomas/ScienceQA), which contains over 20,000 science-related questions from elementary and high school curricula. Each record includes fields such as:
 - image : contextual image
 - question : the main prompt
